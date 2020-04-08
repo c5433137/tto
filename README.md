@@ -9,12 +9,12 @@
 
 资源:
 
-- [下载地址](https://github.com/ixre/tto/releases/)
+- [下载地址](https://github.com/c5433137/tto/releases/)
 - [Go模板语法-中](http://www.g-var.com/posts/translation/hugo/hugo-21-go-template-primer/)
 - [Go模板语法-English](https://golang.org/pkg/text/template/)
 
 
-_注：您看到的文档有可能已经更新，请参见最新[使用文档](https://github.com/ixre/tto)_
+_注：您看到的文档有可能已经更新，请参见最新[使用文档](https://github.com/c5433137/tto)_
 
 ## 快速开始
 

@@ -1,6 +1,6 @@
 package tto
 
-import "github.com/ixre/tto/go_"
+import "github.com/c5433137/tto/go_"
 
 var (
 	GoEntityRepTemplate     = NewTemplate(go_.TPL_ENTITY_REP, "")

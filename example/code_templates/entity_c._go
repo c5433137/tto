@@ -1,7 +1,7 @@
 package c
 
 import (
-    "github.com/ixre/goex/echox"
+    "github.com/c5433137/goex/echox"
     "github.com/ixre/gof"
     "strconv"
     "errors"

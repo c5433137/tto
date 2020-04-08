@@ -34,7 +34,7 @@ func TestGenAll(t *testing.T) {
 		return
 	}
 	// 设置变量
-	modelPkg := "github.com/ixre/tto/generator/example/" + genDir + "model"
+	modelPkg := "github.com/c5433137/tto/generator/example/" + genDir + "model"
 	modelPkgName := "model"
 	dg.Var(generator.VModelPkgName, modelPkgName)
 	dg.Var(generator.VModelPkg, modelPkg)

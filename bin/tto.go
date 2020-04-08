@@ -7,7 +7,7 @@ import (
 	"github.com/ixre/gof/db"
 	"github.com/ixre/gof/db/orm"
 	"github.com/ixre/gof/shell"
-	"github.com/ixre/tto"
+	"github.com/c5433137/tto"
 	"github.com/pelletier/go-toml"
 	"log"
 	"os"

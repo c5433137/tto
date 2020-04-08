@@ -9,7 +9,7 @@ func TestTemplate(t *testing.T) {
  * if you want to modify this code,please read guide doc
  * and modify code template later.
  *
- * guide please see https://github.com/ixre/tto
+ * guide please see https://github.com/c5433137/tto
  *
  */
 !filename:{{.table.Title}}Entity.java

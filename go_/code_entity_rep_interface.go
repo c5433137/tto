@@ -11,7 +11,7 @@ var (
  * if you want to modify this code,please read guide doc
  * and modify code template later.
  *
- * guide please see https://github.com/ixre/tto
+ * guide please see https://github.com/c5433137/tto
  * generate time: {{.global.Time}}
  */
 #target!{{.global.Pkg}}/ifce/{{.table.Name}}_repo_ifce.go
